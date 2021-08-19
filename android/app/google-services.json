@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137816793976",
+    "project_id": "atividade5-b70cd",
+    "storage_bucket": "atividade5-b70cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137816793976:android:8d914d02cdb28205381e8d",
+        "android_client_info": {
+          "package_name": "com.atividade5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137816793976-asttglr3pr4if7uj6dgjqhfg5igrbgqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVfTJVReDlYONnn9Ewhxv3rblYruF2PtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137816793976-asttglr3pr4if7uj6dgjqhfg5igrbgqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
